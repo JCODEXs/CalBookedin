@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b92309e5.css",
+    "main.js": "/static/js/main.cbb81a03.js",
+    "static/media/golden.jpg": "/static/media/golden.f757f8abc59e81424cde.jpg",
+    "static/media/growmoney.jpg": "/static/media/growmoney.83a8af992957c0d79261.jpg",
+    "index.html": "/index.html",
+    "main.b92309e5.css.map": "/static/css/main.b92309e5.css.map",
+    "main.cbb81a03.js.map": "/static/js/main.cbb81a03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b92309e5.css",
+    "static/js/main.cbb81a03.js"
+  ]
+}

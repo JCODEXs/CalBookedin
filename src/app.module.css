@@ -1,0 +1,7 @@
+.img {
+  width: 100%;
+  height: 15rem;
+  z-index: 2;
+  overflow: hidden;
+  border-radius: 15px;
+}
